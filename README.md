@@ -12,4 +12,7 @@
 - 🧑‍💼 Mentorship and community support
 - 🌐 Modern, responsive user interface
 - 🖼 Image-driven, motivational content
-- Hackathons 
+- Hackathons
+
+  ## DEMO LINK:
+  https://youtu.be/QjDewHAO4Vo
